@@ -6,6 +6,7 @@
 
 
 def main():
+    print("Hello and welcome to my class")
     # The sum starts at 0
     sum = 0
     # for loop used to identify that range of
